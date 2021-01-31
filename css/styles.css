@@ -3,7 +3,7 @@ html,body{
     height: 100vh;
     min-height: 100vh;
     position: relative;
-    overflow: hidden;
+    
     margin: 0;
 }
 
