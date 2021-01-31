@@ -12,6 +12,6 @@ footer{
     height: 5vh;
     color: white;
     background-color: black;
-    position: absolute;
+    position: fixed;
     bottom: 0;
 }
